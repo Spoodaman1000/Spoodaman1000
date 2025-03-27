@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\bin\Debug\TestingEulysies.exe.config
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\bin\Debug\TestingEulysies.exe
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\bin\Debug\TestingEulysies.pdb
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.Form1.resources
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.Properties.Resources.resources
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.exe
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.pdb
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.Form2.resources
+C:\Users\USER\source\repos\TestingEulysies\TestingEulysies\obj\Debug\TestingEulysies.Form3.resources
